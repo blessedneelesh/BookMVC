@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BookMVC
+build_property.RootNamespace = BookMVC
+build_property.ProjectDir = D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\BookMVC\BookMVC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\BookMVC\BookMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/11Lambton college/3rd Semester/.net/resources/mvc1_allfiles/aspnet_core_mvc/ex_starts/BookMVC/BookMVC/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11Lambton college/3rd Semester/.net/resources/mvc1_allfiles/aspnet_core_mvc/ex_starts/BookMVC/BookMVC/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11Lambton college/3rd Semester/.net/resources/mvc1_allfiles/aspnet_core_mvc/ex_starts/BookMVC/BookMVC/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11Lambton college/3rd Semester/.net/resources/mvc1_allfiles/aspnet_core_mvc/ex_starts/BookMVC/BookMVC/Views/Book/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11Lambton college/3rd Semester/.net/resources/mvc1_allfiles/aspnet_core_mvc/ex_starts/BookMVC/BookMVC/Views/Book/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11Lambton college/3rd Semester/.net/resources/mvc1_allfiles/aspnet_core_mvc/ex_starts/BookMVC/BookMVC/Views/Book/Insert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xJbnNlcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11Lambton college/3rd Semester/.net/resources/mvc1_allfiles/aspnet_core_mvc/ex_starts/BookMVC/BookMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11Lambton college/3rd Semester/.net/resources/mvc1_allfiles/aspnet_core_mvc/ex_starts/BookMVC/BookMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11Lambton college/3rd Semester/.net/resources/mvc1_allfiles/aspnet_core_mvc/ex_starts/BookMVC/BookMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11Lambton college/3rd Semester/.net/resources/mvc1_allfiles/aspnet_core_mvc/ex_starts/BookMVC/BookMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11Lambton college/3rd Semester/.net/resources/mvc1_allfiles/aspnet_core_mvc/ex_starts/BookMVC/BookMVC/Views/User/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11Lambton college/3rd Semester/.net/resources/mvc1_allfiles/aspnet_core_mvc/ex_starts/BookMVC/BookMVC/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11Lambton college/3rd Semester/.net/resources/mvc1_allfiles/aspnet_core_mvc/ex_starts/BookMVC/BookMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11Lambton college/3rd Semester/.net/resources/mvc1_allfiles/aspnet_core_mvc/ex_starts/BookMVC/BookMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11Lambton college/3rd Semester/.net/resources/mvc1_allfiles/aspnet_core_mvc/ex_starts/BookMVC/BookMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-uuycqon9bp

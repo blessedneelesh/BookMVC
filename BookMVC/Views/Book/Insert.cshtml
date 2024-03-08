@@ -1,0 +1,20 @@
+﻿
+
+@model Mmabook;
+Insert 
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+<form asp-action="Insert" method="post">
+  
+    <label asp-for="ProductCode">Product Code</label><br>
+    <input asp-for="ProductCode"><br>   
+    <span asp-validation-for="ProductCode" class="text-danger"></span><br />
+
+    <label asp-for="Description">Description</label><br>
+    <input asp-for="Description" ><br>
+    <span asp-validation-for="Description" class="text-danger"></span><br>
+ 
+    <label asp-for="UnitPrice">UnitPrice</label><br>
+    <input asp-for="UnitPrice"><br>
+    <span asp-validation-for="UnitPrice" class="text-danger"></span><br>
+    <input type="submit" value="Submit">
+</form> 
